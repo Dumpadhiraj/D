@@ -1,0 +1,94 @@
+.d1{
+    background-color: #3b5998;
+    display: flex;
+    justify-content: space-between;
+}
+. body {
+    font-family: 'Arial', sans-serif;
+}
+.form1{
+
+    margin:  50px 50px 50px 50px;
+}
+.form2{
+
+}
+.inner_form{
+    display: flex;
+    flex-direction: row;
+    gap: 4px;
+}
+.fb_logo{
+    color: white;
+    margin: 50px 50px 50px 50px;
+}
+.email{
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+.pass{
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+.login_b1{
+    height: 20px;
+
+}
+.left_part{
+    margin-left: 8%;
+}
+.left{
+    margin-left: 18%;
+}
+.first_name{
+    display: flex;
+    flex-direction: column;
+}
+.last_name{
+    display: flex;
+    flex-direction: column;
+}
+.birthday_select{
+    display: flex;
+    flex-direction: column;
+}
+.email2{
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+}
+.pass2{
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+}
+.body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f4f4f4;
+}
+
+.signup-button {
+    padding: 10px 60px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.signup-button:hover {
+    background-color: #45a049;
+}
+.custom-line {
+    width: 50%;
+    margin: 1%;
+    border: 1px solid #000;
+}
